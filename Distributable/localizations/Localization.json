@@ -81,7 +81,7 @@
 							"English" : "A bunch of plastic waste. And people wondered why all of this happened.",
 							"Spanish (Spain)" : "Un puñado de desechos plásticos. Y la gente se preguntaba por qué todo esto ha pasado.",
 							"Turkish" : "Bir avuç plastik atık. İnsanlar tüm bunların neden olduğunu merak ediyor.",
-							"Italian" : "Un mucchio di rifiuti di plastica. E le persone si chiedono perchè tutto questo è accaduto."
+							"Italian" : "Un mucchio di rifiuti di plastica. E le persone si chiedono perché tutto questo è accaduto."
 	},
 	"GAMEPLAY_Flint" : {
                             "English" : "Flint",
@@ -213,7 +213,7 @@
 							"English" : "Broken pieces of hardened clay.",
 							"Spanish (Spain)" : "Pedazos rotos de arcilla endurecida.",
 							"Turkish" : "Sertleşmiş kilden kırık parçalar.",
-							"Italian" : "Pezzi di argilla indurita rotti."
+							"Italian" : "Pezzi rotti di argilla indurita."
 	},
 	"GAMEPLAY_RecycledGlass" : {
                             "English" : "Reclaimed Glass",
